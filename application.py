@@ -213,7 +213,7 @@ use_container_width=True
 
 if run:
 
-```
+
 score = q1 + q2 + q3 + q4 + q5
 
 t = score / 20 * 10
